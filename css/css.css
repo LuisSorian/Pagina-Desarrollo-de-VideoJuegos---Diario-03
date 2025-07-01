@@ -1,0 +1,131 @@
+body
+{
+   background-color: #B0CDD4;
+   color: #553769;
+}
+
+.Titulo
+{
+    background-color: #7a9dca;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: white solid 16px;
+    border-radius: 15px;
+}
+
+.Titulo h1
+{
+    font-size: 100px;
+}
+
+.Titulo p
+{
+    font-size: 28px;
+    margin-top: -10px;
+    display: flex;
+    justify-content: center; 
+}
+
+.Titulo h2
+{
+    font-size: 45px;
+    margin-top: -10px;
+}
+
+footer
+{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.servicios
+{
+    background-color: #7a9dca;
+    color: #ffffff;
+    display: flex;
+    margin-left: 220px;
+    margin-right: 220px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    align-items: center;
+    flex-direction: column;
+    border: white solid 8px;
+    border-radius: 15px;
+    font-size: 20px;
+}
+
+.games
+{
+    display: flex;
+    justify-content: center;
+    border-radius: 30px;
+    border: white solid 8px;
+    margin-left: 405px;
+    margin-right: 405px;
+}
+
+.objetos
+{
+    display: flex;
+    margin-top: 30px;
+}
+
+.objetos h2{
+    font-size: 50px;
+}
+.objetos p{
+    font-size: 25px;
+}
+
+.mision
+{
+    background-color: #7a9dca;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: white solid 8px;
+    border-radius: 15px;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+}
+
+.vision
+{
+    background-color: #7a9dca;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: white solid 8px;
+    border-radius: 15px;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+}
+
+.smart
+{
+    background-color: #7a9dca;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: white solid 8px;
+    border-radius: 15px;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
